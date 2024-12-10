@@ -1,4 +1,4 @@
-Linux:
+# Linux:
 
 THIS IS ONLY FOR LINUX CONFIGURATION AND APACHE
 
@@ -190,7 +190,8 @@ Outside Repos/Infomartion:
 
     https://github.com/OpenVPN/easy-rsa
 
-Windows (x86):
+
+# Windows (x86):
 
 To Install:
 
